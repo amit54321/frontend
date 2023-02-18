@@ -1,7 +1,7 @@
 {
     "apps" : [
       {
-        "name"      : "react-app",
+        "name"      : "frontend",
         "script"    : "npx",
         "interpreter": "none",
         "args": "serve -s build -p 3005"
